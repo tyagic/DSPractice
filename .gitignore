@@ -1,0 +1,8 @@
+# ignore all idea settings
+.idea/*
+*.iws
+*.iml
+*.ipr
+
+# ignore out folder
+out/*
